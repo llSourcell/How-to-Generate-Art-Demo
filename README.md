@@ -24,7 +24,7 @@ If it doesn't exist, create a file called ~/.keras/keras.json and make sure it l
    }
    ````
 
-Then you can run the code via typing `jupyter notebook` into Terminal!
+Then you can run the code via typing `jupyter notebook` into terminal
 
 
 #Coding Challenge - Due Date is Thursday, March 9th at 12 PM PST
